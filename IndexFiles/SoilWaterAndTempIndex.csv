@@ -1,4 +1,4 @@
-ColumnHeader,Measurement,Cultivar,Nitrogen,Treatment,Depth,Plot,Block,Sensor,Units,Summary,MUX,Port
+ColumnHeader,Measurement,Nitrogen,Irrigation,Treatment,Depth,Plot,Block,Sensor,Units,Summary,MUX,Port
 TIMESTAMP,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt
 RECORD,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt
 BattV_Avg,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt,Expt
