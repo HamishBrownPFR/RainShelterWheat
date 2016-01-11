@@ -1,4 +1,4 @@
-ColumnHeader,Units,Summary,Measurement,Plot,Treatment,Block,Cultivar,Irrigation
+Column Header,Units,Summary,Measurement,Plot,Treatment,Block,Nitrogen,Irrigation
 TIMESTAMP,TS,Ref,Time,Expt,Expt,Expt,Expt,Expt
 RECORD,RN,Ref,Record,Expt,Expt,Expt,Expt,Expt
 BattV_Avg,Volts,Avg,BatteryVoltage,Expt,Expt,Expt,Expt,Expt
@@ -10,163 +10,175 @@ SlrMJ_Tot,MJ/m^2,Tot,IncomingRadnMJ,Expt,Expt,Expt,Expt,Expt
 Rain_mm_Tot,mm,Tot,Rainfall,Expt,Expt,Expt,Expt,Expt
 WS_ms_Avg,meters/second,Avg,Windspeed,Expt,Expt,Expt,Expt,Expt
 LeafWet_kohms_Avg,kilohms,Avg,Leafwetness,Expt,Expt,Expt,Expt,Expt
-NetRadn_Avg,W/m^2,Avg,NetRadn,215,3,3,Dash,High
-SBT_C_Avg(1),Deg C,Avg,IR_SensorBodyTemp,212,5,2,Omaka,Mid
-SBT_C_Avg(2),Deg C,Avg,IR_SensorBodyTemp,217,1,3,Dash,Low
-SBT_C_Avg(3),Deg C,Avg,IR_SensorBodyTemp,208,6,2,Omaka,High
-SBT_C_Avg(4),Deg C,Avg,IR_SensorBodyTemp,207,2,2,Dash,Mid
-SBT_C_Avg(5),Deg C,Avg,IR_SensorBodyTemp,201,2,1,Dash,Mid
-SBT_C_Avg(6),Deg C,Avg,IR_SensorBodyTemp,206,3,1,Dash,High
-SBT_C_Avg(7),Deg C,Avg,IR_SensorBodyTemp,205,4,1,Omaka,Low
-SBT_C_Avg(8),Deg C,Avg,IR_SensorBodyTemp,211,3,2,Dash,High
-SBT_C_Avg(9),Deg C,Avg,IR_SensorBodyTemp,218,2,3,Dash,Mid
-SBT_C_Avg(10),Deg C,Avg,IR_SensorBodyTemp,213,6,3,Omaka,High
-SBT_C_Avg(11),Deg C,Avg,IR_SensorBodyTemp,214,5,3,Omaka,Mid
-SBT_C_Avg(12),Deg C,Avg,IR_SensorBodyTemp,210,4,2,Omaka,Low
-SBT_C_Avg(13),Deg C,Avg,IR_SensorBodyTemp,204,1,1,Dash,Low
-SBT_C_Avg(14),Deg C,Avg,IR_SensorBodyTemp,202,6,1,Omaka,High
-SBT_C_Avg(15),Deg C,Avg,IR_SensorBodyTemp,203,5,1,Omaka,Mid
-SBT_C_Avg(16),Deg C,Avg,IR_SensorBodyTemp,222,6,4,Omaka,High
-SBT_C_Avg(17),Deg C,Avg,IR_SensorBodyTemp,209,1,2,Dash,Low
-SBT_C_Avg(18),Deg C,Avg,IR_SensorBodyTemp,223,2,4,Dash,Mid
-SBT_C_Avg(19),Deg C,Avg,IR_SensorBodyTemp,219,4,4,Omaka,Low
-SBT_C_Avg(20),Deg C,Avg,IR_SensorBodyTemp,220,1,4,Dash,Low
-SBT_C_Avg(21),Deg C,Avg,IR_SensorBodyTemp,215,3,3,Dash,High
-SBT_C_Avg(22),Deg C,Avg,IR_SensorBodyTemp,221,3,4,Dash,High
-SBT_C_Avg(23),Deg C,Avg,IR_SensorBodyTemp,216,4,3,Omaka,Low
-SBT_C_Avg(24),Deg C,Avg,IR_SensorBodyTemp,224,5,4,Omaka,Mid
-TT_C_Avg(1),Deg C,Avg,IR_SurfaceTemp,212,5,2,Omaka,Mid
-TT_C_Avg(2),Deg C,Avg,IR_SurfaceTemp,217,1,3,Dash,Low
-TT_C_Avg(3),Deg C,Avg,IR_SurfaceTemp,208,6,2,Omaka,High
-TT_C_Avg(4),Deg C,Avg,IR_SurfaceTemp,207,2,2,Dash,Mid
-TT_C_Avg(5),Deg C,Avg,IR_SurfaceTemp,201,2,1,Dash,Mid
-TT_C_Avg(6),Deg C,Avg,IR_SurfaceTemp,206,3,1,Dash,High
-TT_C_Avg(7),Deg C,Avg,IR_SurfaceTemp,205,4,1,Omaka,Low
-TT_C_Avg(8),Deg C,Avg,IR_SurfaceTemp,211,3,2,Dash,High
-TT_C_Avg(9),Deg C,Avg,IR_SurfaceTemp,218,2,3,Dash,Mid
-TT_C_Avg(10),Deg C,Avg,IR_SurfaceTemp,213,6,3,Omaka,High
-TT_C_Avg(11),Deg C,Avg,IR_SurfaceTemp,214,5,3,Omaka,Mid
-TT_C_Avg(12),Deg C,Avg,IR_SurfaceTemp,210,4,2,Omaka,Low
-TT_C_Avg(13),Deg C,Avg,IR_SurfaceTemp,204,1,1,Dash,Low
-TT_C_Avg(14),Deg C,Avg,IR_SurfaceTemp,202,6,1,Omaka,High
-TT_C_Avg(15),Deg C,Avg,IR_SurfaceTemp,203,5,1,Omaka,Mid
-TT_C_Avg(16),Deg C,Avg,IR_SurfaceTemp,222,6,4,Omaka,High
-TT_C_Avg(17),Deg C,Avg,IR_SurfaceTemp,209,1,2,Dash,Low
-TT_C_Avg(18),Deg C,Avg,IR_SurfaceTemp,223,2,4,Dash,Mid
-TT_C_Avg(19),Deg C,Avg,IR_SurfaceTemp,219,4,4,Omaka,Low
-TT_C_Avg(20),Deg C,Avg,IR_SurfaceTemp,220,1,4,Dash,Low
-TT_C_Avg(21),Deg C,Avg,IR_SurfaceTemp,215,3,3,Dash,High
-TT_C_Avg(22),Deg C,Avg,IR_SurfaceTemp,221,3,4,Dash,High
-TT_C_Avg(23),Deg C,Avg,IR_SurfaceTemp,216,4,3,Omaka,Low
-TT_C_Avg(24),Deg C,Avg,IR_SurfaceTemp,224,5,4,Omaka,Mid
-TTmV_Avg(1),mV,Avg,IRmV,212,5,2,Omaka,Mid
-TTmV_Avg(2),mV,Avg,IRmV,217,1,3,Dash,Low
-TTmV_Avg(3),mV,Avg,IRmV,208,6,2,Omaka,High
-TTmV_Avg(4),mV,Avg,IRmV,207,2,2,Dash,Mid
-TTmV_Avg(5),mV,Avg,IRmV,201,2,1,Dash,Mid
-TTmV_Avg(6),mV,Avg,IRmV,206,3,1,Dash,High
-TTmV_Avg(7),mV,Avg,IRmV,205,4,1,Omaka,Low
-TTmV_Avg(8),mV,Avg,IRmV,211,3,2,Dash,High
-TTmV_Avg(9),mV,Avg,IRmV,218,2,3,Dash,Mid
-TTmV_Avg(10),mV,Avg,IRmV,213,6,3,Omaka,High
-TTmV_Avg(11),mV,Avg,IRmV,214,5,3,Omaka,Mid
-TTmV_Avg(12),mV,Avg,IRmV,210,4,2,Omaka,Low
-TTmV_Avg(13),mV,Avg,IRmV,204,1,1,Dash,Low
-TTmV_Avg(14),mV,Avg,IRmV,202,6,1,Omaka,High
-TTmV_Avg(15),mV,Avg,IRmV,203,5,1,Omaka,Mid
-TTmV_Avg(16),mV,Avg,IRmV,222,6,4,Omaka,High
-TTmV_Avg(17),mV,Avg,IRmV,209,1,2,Dash,Low
-TTmV_Avg(18),mV,Avg,IRmV,223,2,4,Dash,Mid
-TTmV_Avg(19),mV,Avg,IRmV,219,4,4,Omaka,Low
-TTmV_Avg(20),mV,Avg,IRmV,220,1,4,Dash,Low
-TTmV_Avg(21),mV,Avg,IRmV,215,3,3,Dash,High
-TTmV_Avg(22),mV,Avg,IRmV,221,3,4,Dash,High
-TTmV_Avg(23),mV,Avg,IRmV,216,4,3,Omaka,Low
-TTmV_Avg(24),mV,Avg,IRmV,224,5,4,Omaka,Mid
-SoilSurfTC_Avg(1),Deg C,Avg,SurfaceSoilTemp,222,6,4,Omaka,High
-SoilSurfTC_Avg(2),Deg C,Avg,SurfaceSoilTemp,223,2,4,Dash,Mid
-SoilSurfTC_Avg(3),Deg C,Avg,SurfaceSoilTemp,224,5,4,Omaka,Mid
-SoilSurfTC_Avg(4),Deg C,Avg,SurfaceSoilTemp,219,4,4,Omaka,Low
-SoilSurfTC_Avg(5),Deg C,Avg,SurfaceSoilTemp,220,1,4,Dash,Low
-SoilSurfTC_Avg(6),Deg C,Avg,SurfaceSoilTemp,221,3,4,Dash,High
-SoilSurfTC_Avg(7),Deg C,Avg,SurfaceSoilTemp,217,1,3,Dash,Low
-SoilSurfTC_Avg(8),Deg C,Avg,SurfaceSoilTemp,216,4,3,Omaka,Low
-SoilSurfTC_Avg(9),Deg C,Avg,SurfaceSoilTemp,215,3,3,Dash,High
-SoilSurfTC_Avg(10),Deg C,Avg,SurfaceSoilTemp,210,4,2,Omaka,Low
-SoilSurfTC_Avg(11),Deg C,Avg,SurfaceSoilTemp,214,5,3,Omaka,Mid
-SoilSurfTC_Avg(12),Deg C,Avg,SurfaceSoilTemp,213,6,3,Omaka,High
-SoilSurfTC_Avg(13),Deg C,Avg,SurfaceSoilTemp,218,2,3,Dash,Mid
-SoilSurfTC_Avg(14),Deg C,Avg,SurfaceSoilTemp,211,3,2,Dash,High
-SoilSurfTC_Avg(15),Deg C,Avg,SurfaceSoilTemp,212,5,2,Omaka,Mid
-SoilSurfTC_Avg(16),Deg C,Avg,SurfaceSoilTemp,206,3,1,Dash,High
-SoilSurfTC_Avg(17),Deg C,Avg,SurfaceSoilTemp,208,6,2,Omaka,High
-SoilSurfTC_Avg(18),Deg C,Avg,SurfaceSoilTemp,201,2,1,Dash,Mid
-SoilSurfTC_Avg(19),Deg C,Avg,SurfaceSoilTemp,203,5,1,Omaka,Mid
-SoilSurfTC_Avg(20),Deg C,Avg,SurfaceSoilTemp,205,4,1,Omaka,Low
-SoilSurfTC_Avg(21),Deg C,Avg,SurfaceSoilTemp,202,6,1,Omaka,High
-SoilSurfTC_Avg(22),Deg C,Avg,SurfaceSoilTemp,204,1,1,Dash,Low
-SoilSurfTC_Avg(23),Deg C,Avg,SurfaceSoilTemp,209,1,2,Dash,Low
-SoilSurfTC_Avg(24),Deg C,Avg,SurfaceSoilTemp,207,2,2,Dash,Mid
-HeatFlux_Avg(1),W/m^2,Avg,HeatFlux,219,4,4,Omaka,Low
-HeatFlux_Avg(2),W/m^2,Avg,HeatFlux,220,1,4,Dash,Low
-HeatFlux_Avg(3),W/m^2,Avg,HeatFlux,217,1,3,Dash,Low
-HeatFlux_Avg(4),W/m^2,Avg,HeatFlux,213,6,3,Omaka,High
-HeatFlux_Avg(5),W/m^2,Avg,HeatFlux,206,3,1,Dash,High
-HeatFlux_Avg(6),W/m^2,Avg,HeatFlux,205,4,1,Omaka,Low
-HeatFlux_Avg(7),W/m^2,Avg,HeatFlux,202,6,1,Omaka,High
-HeatFlux_Avg(8),W/m^2,Avg,HeatFlux,204,1,1,Dash,Low
-HeatFlux_Avg(9),W/m^2,Avg,HeatFlux,222,6,4,Omaka,High
-HeatFlux_Avg(10),W/m^2,Avg,HeatFlux,221,3,4,Dash,High
-HeatFlux_Avg(11),W/m^2,Avg,HeatFlux,215,3,3,Dash,High
-HeatFlux_Avg(12),W/m^2,Avg,HeatFlux,210,4,2,Omaka,Low
-SlrReflectkW_Avg(1),kW/m^2,Avg,ReflectedRadnKW,222,6,4,Omaka,High
-SlrReflectkW_Avg(2),kW/m^2,Avg,ReflectedRadnKW,220,1,4,Dash,Low
-SlrReflectkW_Avg(3),kW/m^2,Avg,ReflectedRadnKW,202,6,1,Omaka,High
-SlrReflectkW_Avg(4),kW/m^2,Avg,ReflectedRadnKW,217,1,3,Dash,Low
-SlrReflectkW_Avg(5),kW/m^2,Avg,ReflectedRadnKW,221,3,4,Dash,High
-SlrReflectkW_Avg(6),kW/m^2,Avg,ReflectedRadnKW,219,4,4,Omaka,Low
-SlrReflectkW_Avg(7),kW/m^2,Avg,ReflectedRadnKW,213,6,3,Omaka,High
-SlrReflectkW_Avg(8),kW/m^2,Avg,ReflectedRadnKW,215,3,3,Dash,High
-SlrReflectkW_Avg(9),kW/m^2,Avg,ReflectedRadnKW,206,3,1,Dash,High
-SlrReflectkW_Avg(10),kW/m^2,Avg,ReflectedRadnKW,210,4,2,Omaka,Low
-SlrReflectkW_Avg(11),kW/m^2,Avg,ReflectedRadnKW,205,4,1,Omaka,Low
-SlrReflectkW_Avg(12),kW/m^2,Avg,ReflectedRadnKW,204,1,1,Dash,Low
-SlrReflectMJ_Avg(1),MJ/m^2,Avg,ReflectedRadnMJ,222,6,4,Omaka,High
-SlrReflectMJ_Avg(2),MJ/m^2,Avg,ReflectedRadnMJ,220,1,4,Dash,Low
-SlrReflectMJ_Avg(3),MJ/m^2,Avg,ReflectedRadnMJ,202,6,1,Omaka,High
-SlrReflectMJ_Avg(4),MJ/m^2,Avg,ReflectedRadnMJ,217,1,3,Dash,Low
-SlrReflectMJ_Avg(5),MJ/m^2,Avg,ReflectedRadnMJ,221,3,4,Dash,High
-SlrReflectMJ_Avg(6),MJ/m^2,Avg,ReflectedRadnMJ,219,4,4,Omaka,Low
-SlrReflectMJ_Avg(7),MJ/m^2,Avg,ReflectedRadnMJ,213,6,3,Omaka,High
-SlrReflectMJ_Avg(8),MJ/m^2,Avg,ReflectedRadnMJ,215,3,3,Dash,High
-SlrReflectMJ_Avg(9),MJ/m^2,Avg,ReflectedRadnMJ,206,3,1,Dash,High
-SlrReflectMJ_Avg(10),MJ/m^2,Avg,ReflectedRadnMJ,210,4,2,Omaka,Low
-SlrReflectMJ_Avg(11),MJ/m^2,Avg,ReflectedRadnMJ,205,4,1,Omaka,Low
-SlrReflectMJ_Avg(12),MJ/m^2,Avg,ReflectedRadnMJ,204,1,1,Dash,Low
-SoilAvTC_Avg(1),DegC,Avg,SoilTemp15cm,219,4,4,Omaka,Low
-SoilAvTC_Avg(2),DegC,Avg,SoilTemp15cm,220,1,4,Dash,Low
-SoilAvTC_Avg(3),DegC,Avg,SoilTemp15cm,217,1,3,Dash,Low
-SoilAvTC_Avg(4),DegC,Avg,SoilTemp15cm,213,6,3,Omaka,High
-SoilAvTC_Avg(5),DegC,Avg,SoilTemp15cm,205,4,1,Omaka,Low
-SoilAvTC_Avg(6),DegC,Avg,SoilTemp15cm,206,3,1,Dash,High
-SoilAvTC_Avg(7),DegC,Avg,SoilTemp15cm,202,6,1,Omaka,High
-SoilAvTC_Avg(8),DegC,Avg,SoilTemp15cm,204,1,1,Dash,Low
-SoilAvTC_Avg(9),DegC,Avg,SoilTemp15cm,222,6,4,Omaka,High
-SoilAvTC_Avg(10),DegC,Avg,SoilTemp15cm,221,3,4,Dash,High
-SoilAvTC_Avg(11),DegC,Avg,SoilTemp15cm,215,3,3,Dash,High
-SoilAvTC_Avg(12),DegC,Avg,SoilTemp15cm,210,4,2,Omaka,Low
-LinPAR_Avg(1),mmolPAR,Avg,BelowCanopyPAR,210,4,2,Omaka,Low
-LinPAR_Avg(2),mmolPAR,Avg,BelowCanopyPAR,204,1,1,Dash,Low
-LinPAR_Avg(3),mmolPAR,Avg,BelowCanopyPAR,222,6,4,Omaka,High
-LinPAR_Avg(4),mmolPAR,Avg,BelowCanopyPAR,215,3,3,Dash,High
-LinPAR_Avg(5),mmolPAR,Avg,BelowCanopyPAR,221,3,4,Dash,High
-LinPAR_Avg(6),mmolPAR,Avg,BelowCanopyPAR,217,1,3,Dash,Low
-LinPAR_Avg(7),mmolPAR,Avg,BelowCanopyPAR,220,1,4,Dash,Low
-LinPAR_Avg(8),mmolPAR,Avg,BelowCanopyPAR,206,3,1,Dash,High
-LinPAR_Avg(9),mmolPAR,Avg,BelowCanopyPAR,213,6,3,Omaka,High
-LinPAR_Avg(10),mmolPAR,Avg,BelowCanopyPAR,205,4,1,Omaka,Low
-LinPAR_Avg(11),mmolPAR,Avg,BelowCanopyPAR,202,6,1,Omaka,High
-LinPAR_Avg(12),mmolPAR,Avg,BelowCanopyPAR,219,4,4,Omaka,Low
-LinPAR_Avg(13),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
-LinPAR_Avg(14),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
-LinPAR_Avg(15),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
+NetRadn_Avg,W/m^2,Avg,NetRadn,101,5,1,250,Dryland
+SBT_C_Avg(1),Deg C,Avg,IR_SensorBodyTemp,101,5,1,250,Dryland
+SBT_C_Avg(2),Deg C,Avg,IR_SensorBodyTemp,102,6,1,250,Irrigated
+SBT_C_Avg(3),Deg C,Avg,IR_SensorBodyTemp,103,2,1,0,Irrigated
+SBT_C_Avg(4),Deg C,Avg,IR_SensorBodyTemp,104,4,1,50,Irrigated
+SBT_C_Avg(5),Deg C,Avg,IR_SensorBodyTemp,105,1,1,0,Dryland
+SBT_C_Avg(6),Deg C,Avg,IR_SensorBodyTemp,106,3,1,50,Dryland
+SBT_C_Avg(7),Deg C,Avg,IR_SensorBodyTemp,107,4,2,50,Irrigated
+SBT_C_Avg(8),Deg C,Avg,IR_SensorBodyTemp,108,1,2,0,Dryland
+SBT_C_Avg(9),Deg C,Avg,IR_SensorBodyTemp,109,5,2,250,Dryland
+SBT_C_Avg(10),Deg C,Avg,IR_SensorBodyTemp,110,6,2,250,Irrigated
+SBT_C_Avg(11),Deg C,Avg,IR_SensorBodyTemp,111,2,2,0,Irrigated
+SBT_C_Avg(12),Deg C,Avg,IR_SensorBodyTemp,112,3,2,50,Dryland
+SBT_C_Avg(13),Deg C,Avg,IR_SensorBodyTemp,113,5,3,250,Dryland
+SBT_C_Avg(14),Deg C,Avg,IR_SensorBodyTemp,114,4,3,50,Irrigated
+SBT_C_Avg(15),Deg C,Avg,IR_SensorBodyTemp,115,2,3,0,Irrigated
+SBT_C_Avg(16),Deg C,Avg,IR_SensorBodyTemp,116,1,3,0,Dryland
+SBT_C_Avg(17),Deg C,Avg,IR_SensorBodyTemp,117,6,3,250,Irrigated
+SBT_C_Avg(18),Deg C,Avg,IR_SensorBodyTemp,118,3,3,50,Dryland
+SBT_C_Avg(19),Deg C,Avg,IR_SensorBodyTemp,119,4,4,50,Irrigated
+SBT_C_Avg(20),Deg C,Avg,IR_SensorBodyTemp,120,3,4,50,Dryland
+SBT_C_Avg(21),Deg C,Avg,IR_SensorBodyTemp,121,1,4,0,Dryland
+SBT_C_Avg(22),Deg C,Avg,IR_SensorBodyTemp,122,2,4,0,Irrigated
+SBT_C_Avg(23),Deg C,Avg,IR_SensorBodyTemp,123,6,4,250,Irrigated
+SBT_C_Avg(24),Deg C,Avg,IR_SensorBodyTemp,124,5,4,250,Dryland
+TT_C_Avg(1),Deg C,Avg,IR_SurfaceTemp,101,5,1,250,Dryland
+TT_C_Avg(2),Deg C,Avg,IR_SurfaceTemp,102,6,1,250,Irrigated
+TT_C_Avg(3),Deg C,Avg,IR_SurfaceTemp,103,2,1,0,Irrigated
+TT_C_Avg(4),Deg C,Avg,IR_SurfaceTemp,104,4,1,50,Irrigated
+TT_C_Avg(5),Deg C,Avg,IR_SurfaceTemp,105,1,1,0,Dryland
+TT_C_Avg(6),Deg C,Avg,IR_SurfaceTemp,106,3,1,50,Dryland
+TT_C_Avg(7),Deg C,Avg,IR_SurfaceTemp,107,4,2,50,Irrigated
+TT_C_Avg(8),Deg C,Avg,IR_SurfaceTemp,108,1,2,0,Dryland
+TT_C_Avg(9),Deg C,Avg,IR_SurfaceTemp,109,5,2,250,Dryland
+TT_C_Avg(10),Deg C,Avg,IR_SurfaceTemp,110,6,2,250,Irrigated
+TT_C_Avg(11),Deg C,Avg,IR_SurfaceTemp,111,2,2,0,Irrigated
+TT_C_Avg(12),Deg C,Avg,IR_SurfaceTemp,112,3,2,50,Dryland
+TT_C_Avg(13),Deg C,Avg,IR_SurfaceTemp,113,5,3,250,Dryland
+TT_C_Avg(14),Deg C,Avg,IR_SurfaceTemp,114,4,3,50,Irrigated
+TT_C_Avg(15),Deg C,Avg,IR_SurfaceTemp,115,2,3,0,Irrigated
+TT_C_Avg(16),Deg C,Avg,IR_SurfaceTemp,116,1,3,0,Dryland
+TT_C_Avg(17),Deg C,Avg,IR_SurfaceTemp,117,6,3,250,Irrigated
+TT_C_Avg(18),Deg C,Avg,IR_SurfaceTemp,118,3,3,50,Dryland
+TT_C_Avg(19),Deg C,Avg,IR_SurfaceTemp,119,4,4,50,Irrigated
+TT_C_Avg(20),Deg C,Avg,IR_SurfaceTemp,120,3,4,50,Dryland
+TT_C_Avg(21),Deg C,Avg,IR_SurfaceTemp,121,1,4,0,Dryland
+TT_C_Avg(22),Deg C,Avg,IR_SurfaceTemp,122,2,4,0,Irrigated
+TT_C_Avg(23),Deg C,Avg,IR_SurfaceTemp,123,6,4,250,Irrigated
+TT_C_Avg(24),Deg C,Avg,IR_SurfaceTemp,124,5,4,250,Dryland
+TTmV_Avg(1),mV,Avg,IRmV,101,5,1,250,Dryland
+TTmV_Avg(2),mV,Avg,IRmV,102,6,1,250,Irrigated
+TTmV_Avg(3),mV,Avg,IRmV,103,2,1,0,Irrigated
+TTmV_Avg(4),mV,Avg,IRmV,104,4,1,50,Irrigated
+TTmV_Avg(5),mV,Avg,IRmV,105,1,1,0,Dryland
+TTmV_Avg(6),mV,Avg,IRmV,106,3,1,50,Dryland
+TTmV_Avg(7),mV,Avg,IRmV,107,4,2,50,Irrigated
+TTmV_Avg(8),mV,Avg,IRmV,108,1,2,0,Dryland
+TTmV_Avg(9),mV,Avg,IRmV,109,5,2,250,Dryland
+TTmV_Avg(10),mV,Avg,IRmV,110,6,2,250,Irrigated
+TTmV_Avg(11),mV,Avg,IRmV,111,2,2,0,Irrigated
+TTmV_Avg(12),mV,Avg,IRmV,112,3,2,50,Dryland
+TTmV_Avg(13),mV,Avg,IRmV,113,5,3,250,Dryland
+TTmV_Avg(14),mV,Avg,IRmV,114,4,3,50,Irrigated
+TTmV_Avg(15),mV,Avg,IRmV,115,2,3,0,Irrigated
+TTmV_Avg(16),mV,Avg,IRmV,116,1,3,0,Dryland
+TTmV_Avg(17),mV,Avg,IRmV,117,6,3,250,Irrigated
+TTmV_Avg(18),mV,Avg,IRmV,118,3,3,50,Dryland
+TTmV_Avg(19),mV,Avg,IRmV,119,4,4,50,Irrigated
+TTmV_Avg(20),mV,Avg,IRmV,120,3,4,50,Dryland
+TTmV_Avg(21),mV,Avg,IRmV,121,1,4,0,Dryland
+TTmV_Avg(22),mV,Avg,IRmV,122,2,4,0,Irrigated
+TTmV_Avg(23),mV,Avg,IRmV,123,6,4,250,Irrigated
+TTmV_Avg(24),mV,Avg,IRmV,124,5,4,250,Dryland
+SoilSurfTC_Avg(1),Deg C,Avg,SurfaceSoilTemp,101,5,1,250,Dryland
+SoilSurfTC_Avg(2),Deg C,Avg,SurfaceSoilTemp,102,6,1,250,Irrigated
+SoilSurfTC_Avg(3),Deg C,Avg,SurfaceSoilTemp,103,2,1,0,Irrigated
+SoilSurfTC_Avg(4),Deg C,Avg,SurfaceSoilTemp,104,4,1,50,Irrigated
+SoilSurfTC_Avg(5),Deg C,Avg,SurfaceSoilTemp,105,1,1,0,Dryland
+SoilSurfTC_Avg(6),Deg C,Avg,SurfaceSoilTemp,106,3,1,50,Dryland
+SoilSurfTC_Avg(7),Deg C,Avg,SurfaceSoilTemp,107,4,2,50,Irrigated
+SoilSurfTC_Avg(8),Deg C,Avg,SurfaceSoilTemp,108,1,2,0,Dryland
+SoilSurfTC_Avg(9),Deg C,Avg,SurfaceSoilTemp,109,5,2,250,Dryland
+SoilSurfTC_Avg(10),Deg C,Avg,SurfaceSoilTemp,110,6,2,250,Irrigated
+SoilSurfTC_Avg(11),Deg C,Avg,SurfaceSoilTemp,111,2,2,0,Irrigated
+SoilSurfTC_Avg(12),Deg C,Avg,SurfaceSoilTemp,112,3,2,50,Dryland
+SoilSurfTC_Avg(13),Deg C,Avg,SurfaceSoilTemp,113,5,3,250,Dryland
+SoilSurfTC_Avg(14),Deg C,Avg,SurfaceSoilTemp,114,4,3,50,Irrigated
+SoilSurfTC_Avg(15),Deg C,Avg,SurfaceSoilTemp,115,2,3,0,Irrigated
+SoilSurfTC_Avg(16),Deg C,Avg,SurfaceSoilTemp,116,1,3,0,Dryland
+SoilSurfTC_Avg(17),Deg C,Avg,SurfaceSoilTemp,117,6,3,250,Irrigated
+SoilSurfTC_Avg(18),Deg C,Avg,SurfaceSoilTemp,118,3,3,50,Dryland
+SoilSurfTC_Avg(19),Deg C,Avg,SurfaceSoilTemp,119,4,4,50,Irrigated
+SoilSurfTC_Avg(20),Deg C,Avg,SurfaceSoilTemp,120,3,4,50,Dryland
+SoilSurfTC_Avg(21),Deg C,Avg,SurfaceSoilTemp,121,1,4,0,Dryland
+SoilSurfTC_Avg(22),Deg C,Avg,SurfaceSoilTemp,122,2,4,0,Irrigated
+SoilSurfTC_Avg(23),Deg C,Avg,SurfaceSoilTemp,123,6,4,250,Irrigated
+SoilSurfTC_Avg(24),Deg C,Avg,SurfaceSoilTemp,124,5,4,250,Dryland
+HeatFlux_Avg(1),W/m^2,Avg,HeatFlux,101,5,1,250,Dryland
+HeatFlux_Avg(2),W/m^2,Avg,HeatFlux,102,6,1,250,Irrigated
+HeatFlux_Avg(3),W/m^2,Avg,HeatFlux,103,2,1,0,Irrigated
+HeatFlux_Avg(4),W/m^2,Avg,HeatFlux,105,1,1,0,Dryland
+HeatFlux_Avg(5),W/m^2,Avg,HeatFlux,108,1,2,0,Dryland
+HeatFlux_Avg(6),W/m^2,Avg,HeatFlux,109,5,2,250,Dryland
+HeatFlux_Avg(7),W/m^2,Avg,HeatFlux,110,6,2,250,Irrigated
+HeatFlux_Avg(8),W/m^2,Avg,HeatFlux,111,2,2,0,Irrigated
+HeatFlux_Avg(9),W/m^2,Avg,HeatFlux,113,5,3,250,Dryland
+HeatFlux_Avg(10),W/m^2,Avg,HeatFlux,115,2,3,0,Irrigated
+HeatFlux_Avg(11),W/m^2,Avg,HeatFlux,116,1,3,0,Dryland
+HeatFlux_Avg(12),W/m^2,Avg,HeatFlux,117,6,3,250,Irrigated
+SlrReflectkW_Avg(1),kW/m^2,Avg,ReflectedRadnKW,101,5,1,250,Dryland
+SlrReflectkW_Avg(2),kW/m^2,Avg,ReflectedRadnKW,102,6,1,250,Irrigated
+SlrReflectkW_Avg(3),kW/m^2,Avg,ReflectedRadnKW,103,2,1,0,Irrigated
+SlrReflectkW_Avg(4),kW/m^2,Avg,ReflectedRadnKW,105,1,1,0,Dryland
+SlrReflectkW_Avg(5),kW/m^2,Avg,ReflectedRadnKW,108,1,2,0,Dryland
+SlrReflectkW_Avg(6),kW/m^2,Avg,ReflectedRadnKW,109,5,2,250,Dryland
+SlrReflectkW_Avg(7),kW/m^2,Avg,ReflectedRadnKW,110,6,2,250,Irrigated
+SlrReflectkW_Avg(8),kW/m^2,Avg,ReflectedRadnKW,111,2,2,0,Irrigated
+SlrReflectkW_Avg(9),kW/m^2,Avg,ReflectedRadnKW,113,5,3,250,Dryland
+SlrReflectkW_Avg(10),kW/m^2,Avg,ReflectedRadnKW,115,2,3,0,Irrigated
+SlrReflectkW_Avg(11),kW/m^2,Avg,ReflectedRadnKW,116,1,3,0,Dryland
+SlrReflectkW_Avg(12),kW/m^2,Avg,ReflectedRadnKW,117,6,3,250,Irrigated
+SlrReflectMJ_Avg(1),MJ/m^2,Avg,ReflectedRadnMJ,101,5,1,250,Dryland
+SlrReflectMJ_Avg(2),MJ/m^2,Avg,ReflectedRadnMJ,102,6,1,250,Irrigated
+SlrReflectMJ_Avg(3),MJ/m^2,Avg,ReflectedRadnMJ,103,2,1,0,Irrigated
+SlrReflectMJ_Avg(4),MJ/m^2,Avg,ReflectedRadnMJ,105,1,1,0,Dryland
+SlrReflectMJ_Avg(5),MJ/m^2,Avg,ReflectedRadnMJ,108,1,2,0,Dryland
+SlrReflectMJ_Avg(6),MJ/m^2,Avg,ReflectedRadnMJ,109,5,2,250,Dryland
+SlrReflectMJ_Avg(7),MJ/m^2,Avg,ReflectedRadnMJ,110,6,2,250,Irrigated
+SlrReflectMJ_Avg(8),MJ/m^2,Avg,ReflectedRadnMJ,111,2,2,0,Irrigated
+SlrReflectMJ_Avg(9),MJ/m^2,Avg,ReflectedRadnMJ,113,5,3,250,Dryland
+SlrReflectMJ_Avg(10),MJ/m^2,Avg,ReflectedRadnMJ,115,2,3,0,Irrigated
+SlrReflectMJ_Avg(11),MJ/m^2,Avg,ReflectedRadnMJ,116,1,3,0,Dryland
+SlrReflectMJ_Avg(12),MJ/m^2,Avg,ReflectedRadnMJ,117,6,3,250,Irrigated
+SoilAvTC_Avg(1),DegC,Avg,SoilTemp15cm,101,5,1,250,Dryland
+SoilAvTC_Avg(2),DegC,Avg,SoilTemp15cm,102,6,1,250,Irrigated
+SoilAvTC_Avg(3),DegC,Avg,SoilTemp15cm,103,2,1,0,Irrigated
+SoilAvTC_Avg(4),DegC,Avg,SoilTemp15cm,105,1,1,0,Dryland
+SoilAvTC_Avg(5),DegC,Avg,SoilTemp15cm,108,1,2,0,Dryland
+SoilAvTC_Avg(6),DegC,Avg,SoilTemp15cm,109,5,2,250,Dryland
+SoilAvTC_Avg(7),DegC,Avg,SoilTemp15cm,110,6,2,250,Irrigated
+SoilAvTC_Avg(8),DegC,Avg,SoilTemp15cm,111,2,2,0,Irrigated
+SoilAvTC_Avg(9),DegC,Avg,SoilTemp15cm,113,5,3,250,Dryland
+SoilAvTC_Avg(10),DegC,Avg,SoilTemp15cm,115,2,3,0,Irrigated
+SoilAvTC_Avg(11),DegC,Avg,SoilTemp15cm,116,1,3,0,Dryland
+SoilAvTC_Avg(12),DegC,Avg,SoilTemp15cm,117,6,3,250,Irrigated
+LinPAR_Avg(1),mmolPAR,Avg,BelowCanopyPAR,101,5,1,250,Dryland
+LinPAR_Avg(2),mmolPAR,Avg,BelowCanopyPAR,102,6,1,250,Irrigated
+LinPAR_Avg(3),mmolPAR,Avg,BelowCanopyPAR,103,2,1,0,Irrigated
+LinPAR_Avg(4),mmolPAR,Avg,BelowCanopyPAR,104,4,1,50,Irrigated
+LinPAR_Avg(5),mmolPAR,Avg,BelowCanopyPAR,105,1,1,0,Dryland
+LinPAR_Avg(6),mmolPAR,Avg,BelowCanopyPAR,106,3,1,50,Dryland
+LinPAR_Avg(7),mmolPAR,Avg,BelowCanopyPAR,107,4,2,50,Irrigated
+LinPAR_Avg(8),mmolPAR,Avg,BelowCanopyPAR,108,1,2,0,Dryland
+LinPAR_Avg(9),mmolPAR,Avg,BelowCanopyPAR,109,5,2,250,Dryland
+LinPAR_Avg(10),mmolPAR,Avg,BelowCanopyPAR,110,6,2,250,Irrigated
+LinPAR_Avg(11),mmolPAR,Avg,BelowCanopyPAR,111,2,2,0,Irrigated
+LinPAR_Avg(12),mmolPAR,Avg,BelowCanopyPAR,112,3,2,50,Dryland
+LinPAR_Avg(13),mmolPAR,Avg,BelowCanopyPAR,113,5,3,250,Dryland
+LinPAR_Avg(14),mmolPAR,Avg,BelowCanopyPAR,114,4,3,50,Irrigated
+LinPAR_Avg(15),mmolPAR,Avg,BelowCanopyPAR,115,2,3,0,Irrigated
+LinPAR_Avg(16),mmolPAR,Avg,BelowCanopyPAR,116,1,3,0,Dryland
+LinPAR_Avg(17),mmolPAR,Avg,BelowCanopyPAR,117,6,3,250,Irrigated
+LinPAR_Avg(18),mmolPAR,Avg,BelowCanopyPAR,118,3,3,50,Dryland
+LinPAR_Avg(19),mmolPAR,Avg,BelowCanopyPAR,119,4,4,50,Irrigated
+LinPAR_Avg(20),mmolPAR,Avg,BelowCanopyPAR,120,3,4,50,Dryland
+LinPAR_Avg(21),mmolPAR,Avg,BelowCanopyPAR,121,1,4,0,Dryland
+LinPAR_Avg(22),mmolPAR,Avg,BelowCanopyPAR,122,2,4,0,Irrigated
+LinPAR_Avg(23),mmolPAR,Avg,BelowCanopyPAR,123,6,4,250,Irrigated
+LinPAR_Avg(24),mmolPAR,Avg,BelowCanopyPAR,124,5,4,250,Dryland
+LinPAR_Avg(25),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
+LinPAR_Avg(26),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
+LinPAR_Avg(27),mmolPAR,Avg,AboveCanopyPAR,Expt,Expt,Expt,Expt,Expt
